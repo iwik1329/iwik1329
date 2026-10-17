@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Егор Андреевич Колдашов</title>
+  <desc id="desc">Junior Business Analyst. CRM and Process Automation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1832"/>
+      <stop offset="0.6" stop-color="#13284b"/>
+      <stop offset="1" stop-color="#173a62"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#53ddcf"/>
+      <stop offset="1" stop-color="#86b8ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+  <g opacity=".2" fill="none" stroke="#8db8e9">
+    <circle cx="1034" cy="153" r="128"/>
+    <circle cx="1034" cy="153" r="94"/>
+    <circle cx="1034" cy="153" r="60"/>
+    <path d="M800 0v300M880 0v300M960 0v300M1040 0v300M1120 0v300" opacity=".35"/>
+  </g>
+  <path d="M886 86h76l45 68h68l40-50" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#80e6dc">
+    <circle cx="886" cy="86" r="7"/><circle cx="1007" cy="154" r="7"/><circle cx="1115" cy="104" r="7"/>
+  </g>
+  <rect x="70" y="56" width="164" height="29" rx="14.5" fill="#244e64"/>
+  <text x="86" y="76" fill="#86f0db" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">BUSINESS ANALYST</text>
+  <text x="70" y="152" fill="#ffffff" font-family="Arial, sans-serif" font-size="51" font-weight="700">Егор Колдашов</text>
+  <rect x="70" y="174" width="92" height="4" rx="2" fill="url(#accent)"/>
+  <text x="70" y="220" fill="#c5d8ee" font-family="Arial, sans-serif" font-size="26">Junior Business Analyst  |  CRM &amp; Process Automation</text>
+  <text x="70" y="258" fill="#89a8c9" font-family="Arial, sans-serif" font-size="17" letter-spacing="1">AS-IS / TO-BE    ·    BPMN    ·    UML    ·    DATA ANALYTICS</text>
+</svg>
