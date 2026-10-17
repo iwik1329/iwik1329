@@ -2,6 +2,8 @@
 
 <img src="assets/profile-banner.svg" alt="Егор Колдашов — Junior Business Analyst, CRM & Process Automation" width="100%">
 
+# Егор Андреевич Колдашов
+
 ### Business Analysis · CRM · Business Process Management · Data Analytics
 
 **Москва** &nbsp;·&nbsp; [Telegram](https://t.me/egorcoold) &nbsp;·&nbsp; [Email](mailto:egorkoldaw13@gmail.com) &nbsp;·&nbsp; [+7 995 153-83-50](tel:+79951538350)
